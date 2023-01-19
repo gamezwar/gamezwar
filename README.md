@@ -1,4 +1,4 @@
-## Mi nombre es Alvaro Andres Gamez Guerra.
+## Mi nombre es Álvaro Andrés Gámez Guerra.
 
 ### ¿ Quien soy ?
 Soy un desarrollador full Stack, Cuando escuché de la programación, supe que debía aprenderla, no me arrepiento de haber elegido este camino.
